@@ -1,1 +1,3 @@
 1. First Commit. This is just the first commit and serves no purpose whatsoever
+
+2. Second Commit. This is the second commit, similar to the first commit but not the same
